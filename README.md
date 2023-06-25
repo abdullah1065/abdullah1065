@@ -13,6 +13,11 @@ Reach me: <a href="abdullahkhondoker.me">Abdullah Khondoker</a><br>
 <a href="https://www.linkedin.com/in/abdullahkhondoker"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-round&logo=linkedin" alt="LinkedIn"> </a>
 </p><br>
 
+<p align="center">   
+<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=abdullah1065&show_icons=true&theme=radical" />
+<img align="right"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah1065&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=tokyonight" />
+</p><br><br><br><br><br><br><br><br><br>     
+
 ### Programming Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/abdullah1065)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/abdullah1065)
@@ -47,7 +52,7 @@ Reach me: <a href="abdullahkhondoker.me">Abdullah Khondoker</a><br>
 [![Arduino](https://img.shields.io/badge/arduino-black?style=for-the-badge&logo=arduino)](https://github.com/abdullah1065)
 
 
-<details>
+<!--<details>
 <p align="center">
   <a href="https://github.com/abdullah1065">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullah1065&theme=transparent" />
@@ -62,8 +67,7 @@ Reach me: <a href="abdullahkhondoker.me">Abdullah Khondoker</a><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah1065&hide_border=true&theme=transparent" />
   </a>
 </p>
-</details>
-
+</details>-->
 <p align="center">
   <a href="https://github.com/abdullah1065">
     <img src="https://komarev.com/ghpvc/?username=abdullah1065&color=blue&style=flat)" />
