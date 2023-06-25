@@ -1,4 +1,9 @@
-<h1 align="center">Greetings, I'm Abdullah Khondoker</h1>
+
+![I'm Abdullah Khondoker](https://i.postimg.cc/MHQ0HnJq/Untitled-design.png)
+
+
+
+<h1 align="center">Greetings! I'm Abdullah Khondoker</h1>
 <h3 align="center">Passionate to learn new things everyday.</h3><br>
 
 <h4 align="center"><i>
