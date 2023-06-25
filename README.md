@@ -44,6 +44,7 @@ Reach me: <a href="abdullahkhondoker.me">Abdullah Khondoker</a><br>
 [![Raspberry-pi](https://img.shields.io/badge/Raspberrypi-black?style=for-the-badge&logo=Raspberrypi)](https://github.com/abdullah1065)
 [![Arduino](https://img.shields.io/badge/arduino-black?style=for-the-badge&logo=arduino)](https://github.com/abdullah1065)
 
+
 <details>
 <p align="center">
   <a href="https://github.com/abdullah1065">
