@@ -4,7 +4,7 @@
 <h3 align="center">Passionate to learn new things everyday.</h3><br>
 
 <h4 align="center"><i>
-Currently learning **MERN, Flask**<br><br>
+<!-- Currently learning **MERN, Flask**<br><br> -->
 Reach me: <a href="abdullahkhondoker.me">Abdullah Khondoker</a><br>
 </i><br></h4>
     
